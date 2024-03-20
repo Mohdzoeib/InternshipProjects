@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Word_Counter", "Word_Counter.pyproj", "{8C456FFF-24CE-47F5-8C85-BB64CC5352EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C456FFF-24CE-47F5-8C85-BB64CC5352EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C456FFF-24CE-47F5-8C85-BB64CC5352EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D76B6A4-C3B7-42CF-BDCE-F3E151C3EA81}
+	EndGlobalSection
+EndGlobal
